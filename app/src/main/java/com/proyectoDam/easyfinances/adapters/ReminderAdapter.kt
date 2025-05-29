@@ -3,8 +3,8 @@ package com.proyectoDam.easyfinances.adapters
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.proyectoDam.easyfinances.models.Reminder
 import com.proyectoDam.easyfinances.databinding.ItemReminderBinding
+import com.proyectoDam.easyfinances.models.Reminder
 
 class ReminderAdapter(private val reminders: List<Reminder>) :
     RecyclerView.Adapter<ReminderAdapter.ReminderViewHolder>() {
