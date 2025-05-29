@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightOliveGreen">#BDBB9E</color>
+    <color name="selected_item">#FF0000</color> <!-- Rojo brillante -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+    <color name="primary">#6200EE</color> <!-- Cambia este valor hexadecimal por el color que prefieras -->
+    <color name="cardBackground">#F5F5F5</color> <!-- Color gris claro -->
+    <color name="gray">#808080</color> <!-- Gris estándar -->
+    <color name="lightNeutral">#F5F5F5</color>
+    <color name="pastelBlue">#E1F5FE</color>
+    <color name="pastelGreen">#E8F5E9</color>
+
+
+
+
+
+</resources>
+

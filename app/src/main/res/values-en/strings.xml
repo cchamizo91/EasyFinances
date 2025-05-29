@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFinances</string>
+    <string name="bienvenido_a_easyfinances">Welcome to EasyFinances</string>
+    <string name="iniciar_sesion">Log in</string>
+
+    <string name="accede_a_tu_cuenta_existente">Access your existing account</string>
+
+    <string name="registrarse">Sign up</string>
+
+    <string name="crea_una_nueva_cuenta">Create a new account</string>
+
+    <string name="calendario_financiero">Financial Calendar</string>
+
+    <string name="no_se_ha_seleccionado_una_fecha">No date selected</string>
+
+    <string name="no_hay_transacciones_para_este_dia">No transactions for this day</string>
+
+    <string name="escribe_un_recordatorio">Write a reminder</string>
+
+    <string name="aniadir_recordatorio">Add Reminder</string>
+
+    <string name="eliminar_recordatorio">Delete Reminder</string>
+    <string name="ahorro_0_00">Savings_0_00</string>
+    <string name="gastos_0_00">Expenses_0_00</string>
+    <string name="ingresos_0_00">Income_0_00</string>
+    <string name="gr_ficos_financieros">Financial Charts</string>
+
+    <string name="no_tienes_cuenta_registrate">If you don´t have an account, Sign up!</string>
+
+    <string name="olvidaste_tu_contrasenia">¿Forgot your password?</string>
+    <string name="iniciar_session">Log in</string>
+
+    <string name="contrasenia">Password</string>
+
+    <string name="correo_electronico">Email</string>
+
+
+    <string name="iniciar_sesiion">Log in</string>
+
+    <string name="icono_de_inicio_de_sesi_n">Icon Log in</string>
+    <string name="opciones">OPTIONS</string>
+    <string name="transacciones">Transactions</string>
+
+    <string name="aniade_ingresos_o_gastos">Add Income or expenses</string>
+    <string name="lista_de_transacciones">Transactions List</string>
+
+    <string name="revisa_y_organiza_tus_transacciones">Review and organize your transactions</string>
+    <string name="salud_financiera">Financial Health</string>
+
+    <string name="visualiza_tu_progreso_financiero">View yout financial progress</string>
+
+    <string name="calendario_financieo">Financial Calendar</string>
+
+    <string name="fechas_y_recordatorios_importantes">Important Dates and Reminders</string>
+
+    <string name="generar_informe_pdf">Generate PDF Report</string>
+
+    <string name="toda_la_informaci_n_de_tus_transacciones">All Transaction Information</string>
+    <string name="icono_de_candado">keykey</string>
+    <string name="recuperar_contrase_a">Recover Password</string>
+    <string name="introduce_tu_correo_electr_nico">Enter your email</string>
+    <string name="recuperar">Recover</string>
+    <string name="crear_cuenta">Create account</string>
+
+    <string name="introduce_tu_email">Enter your email</string>
+
+    <string name="introduce_tu_contrase_a">Enter your password</string>
+    <string name="registrarsee">Sign up</string>
+
+    <string name="salir">Log out</string>
+
+    <string name="guardar_transacci_n">Save transaction</string>
+
+    <string name="seleccionar_fecha">Selected Date</string>
+
+    <string name="fecha_seleccionada_ninguna">Selected Date: None</string>
+    <string name="gasto">Expense</string>
+    <string name="ingreso">Income</string>
+
+    <string name="cantidad">Amount (€)</string>
+
+    <string name="a_adir_transacci_n">ADD TRANSACTION</string>
+    <string name="eliminar_transacci_n_seleccionada">Deleted Selected Transaction</string>
+    <string name="total_ahorro_0_00">Total savings: €0.00</string>
+    <string name="total_gastos_0_00">Total expenses: €0.00</string>
+
+    <string name="saldo_actual_0_00">Current balance: €0.00</string>
+
+    <string name="resumen_financiero">Financial Summary</string>
+    <string name="cuanto_dinero_hay_en_tu_cuenta">How much money is in your account?</string>
+    <string name="introduce_tu_saldo">Enter your balance</string>
+
+    <string name="confirmar">Confirm</string>
+    <string name="titulo_del_recordatorio">Reminder Title</string>
+    <string name="descripcion_del_recordatorio">Reminder Description</string>
+    <string name="fecha">Date</string>
+    <string name="categoria">Category</string>
+
+    <string name="fechaa">Date</string>
+
+    <string name="tipo">Type</string>
+    <string name="cambiar_idioma">Change Language</string>
+
+    <string name="eliminar_transaccion_seleccionada">Deleted Transaction Selected</string>
+    <string name="lista_de_transacciones_financieras">List of Financial Transactions</string>
+    <string name="ttotal_ahorro_0_00">Total Savings: €0.00</string>
+    <string name="ttotal_gastos_0_00">Total expenses: €0.00</string>
+    <string name="ssaldo_actual_0_00">Current Balance: €0.00</string>
+    <string name="elemento_de_transacci_n_financiera">Financial Transaction Item</string>
+    <string name="cantidad_de_la_transacci_n">Transaction Amount</string>
+    <string name="categor_a">Category</string>
+    <string name="categor_a_de_la_transacci_n">Transaction Category</string>
+    <string name="ffecha">Date</string>
+    <string name="fecha_de_la_transacci_n">Date of Transaction</string>
+    <string name="ttipo">Type</string>
+    <string name="tipo_de_transacci_n_ingreso_o_gasto">Transaction Type, Income or expense</string>
+</resources>

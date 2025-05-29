@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo blanco para los EditText -->
+    <solid android:color="#FFFFFF" />
+
+    <!-- Bordes redondeados -->
+    <corners android:radius="16dp" />
+
+    <!-- Sombra (opcional) -->
+    <stroke android:color="#DDDDDD" android:width="1dp" />
+
+    <!-- Sombra interna para dar un toque más realista -->
+    <padding android:left="10dp" android:top="10dp" android:right="10dp" android:bottom="10dp" />
+</shape>

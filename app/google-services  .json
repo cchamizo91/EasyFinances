@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899082438621",
+    "project_id": "easyfinancesmoney-ch",
+    "storage_bucket": "easyfinancesmoney-ch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899082438621:android:b5bf84133b765b1f271834",
+        "android_client_info": {
+          "package_name": "com.proyectoDam.easyfinances"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlpA8vJ3cc2nITY8ZK9Jz-I4iqpzWvIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

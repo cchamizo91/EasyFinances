@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- Contenedor Izquierdo: Información Resumida -->
+    <LinearLayout
+        android:id="@+id/summaryContainer"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingEnd="8dp">
+
+        <!-- Título -->
+        <TextView
+            android:id="@+id/textTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Resumen Financiero"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Saldo actual -->
+        <TextView
+            android:id="@+id/textSaldoActual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Saldo actual: €0.00"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Total de gastos -->
+        <TextView
+            android:id="@+id/textTotalGastos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total gastos: €0.00"
+            android:textSize="16sp"
+            android:textColor="@android:color/holo_red_dark"
+            android:gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Total de ahorro -->
+        <TextView
+            android:id="@+id/textTotalAhorro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total ahorro: €0.00"
+            android:textSize="16sp"
+            android:textColor="@android:color/holo_green_dark"
+            android:gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Botón para eliminar transacción seleccionada -->
+        <Button
+            android:id="@+id/btnDeleteTransaction"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Eliminar Transacción Seleccionada"
+            android:backgroundTint="@android:color/holo_red_dark"
+            android:textColor="@android:color/white"
+            android:visibility="gone"
+            android:layout_marginBottom="16dp" />
+    </LinearLayout>
+
+    <!-- Contenedor Derecho: Lista de Transacciones -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewTransactions"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:contentDescription="Lista de transacciones"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"/>
+</LinearLayout>
+
