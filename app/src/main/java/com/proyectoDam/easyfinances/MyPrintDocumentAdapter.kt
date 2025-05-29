@@ -85,3 +85,4 @@ class MyPrintDocumentAdapter(private val context: Context) : PrintDocumentAdapte
         writeResultCallback.onWriteFinished(arrayOf(PageRange.ALL_PAGES))
     }
 }
+
