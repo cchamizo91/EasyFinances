@@ -1,4 +1,4 @@
-﻿# EasyFinances
+﻿# EASYFINANCES
 
 ## Introducción
 EasyFinances es una aplicación Android de finanzas personales. Este proyecto se ha desarrollado utilizando Git para manejar versiones y ramas específicas para cada funcionalidad.
