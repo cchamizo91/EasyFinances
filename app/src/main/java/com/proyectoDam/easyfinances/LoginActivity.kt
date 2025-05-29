@@ -61,3 +61,4 @@ class LoginActivity : AppCompatActivity() {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
     }
 }
+//así hace que no se quede el usuario iniciado

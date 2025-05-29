@@ -62,3 +62,5 @@ class RecoverPasswordActivity : AppCompatActivity() {
         Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
     }
 }
+
+//Produce enlace, pero no hace falta activity ya que google te proporciona su pantalla.
