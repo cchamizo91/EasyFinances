@@ -34,3 +34,4 @@ class ReminderAdapter(private val reminders: List<Reminder>) :
     override fun getItemCount(): Int = reminders.size
 }
 
+
